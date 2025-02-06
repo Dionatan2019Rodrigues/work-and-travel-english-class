@@ -79,11 +79,13 @@ dionatan eduardo correa rodrigues </p>
 <h5>[Greetings]</h5>
 <img src="./images/greetings.png" alt="greetings">
 <p>Greetings exercise </p>
-<img src="./images/exercise-greetings.png" alt="exercise-greetings">
+<img src="./images/exercises/exercise-greetings.png" alt="exercise-greetings">
 
 ## Class two - Today is thursday january, 23th, 2025
 
 <a href="https://www.youtube.com/watch?v=qISsAtPmPB4">Class video</a>
+
+<p>Topic: days of the week - periods of the day - daily routine</p>
 
 <h5>[Study plan - Week 04]</h5>
 <table>
@@ -95,17 +97,17 @@ dionatan eduardo correa rodrigues </p>
     <tr>
         <td>tuesday(reading/listening)</td>
         <td><a href="https://www.liveworksheets.com/w/en/english-second-language-esl/256436">practice days of the week</a></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
     </tr>
     <tr>
         <td>wednesday</td>
         <td><a href="https://www.youtube.com/watch?v=xlCBWlsKZXY">see the idea of the routine video</a></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
     </tr>
     <tr>
         <td>thursday(listening)</td>
         <td><p><strong>our class</strong></p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
     </tr>
     <tr>
         <td>friday(speaking)</td>
@@ -115,11 +117,37 @@ dionatan eduardo correa rodrigues </p>
     <tr>
         <td>saturday</td>
         <td><p>Free: listen a music, watch a movie</p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
     </tr>
     <tr>
         <td>sunday</td>
         <td><p>Free: listen a music, watch a movie</p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
     </tr>
 </table>
+
+<h5>[Class content]</h5>
+<p>
+    Day of the week: thursday <br/>
+    month: january <br>
+    day: 23rd <br>
+    year: 2025 <br>
+</p>
+<p>
+    Weekend is saturday and sunday!
+</p>
+<p>
+    <span style="background-color:yellow;">What did you do on the weekend ?</span><br>
+    i go<span style="color:red;">(went)</span> to the (mall/store) <br>
+    i work<span style="color:red;">ed</span> and studi<span style="color:red;">ed</span> on the weekend<br>
+    i wroked and <span style="color:red;">went</span> to Paola's house
+</p>
+
+<h5>[Translations]</h5>
+<p>pizza place - pizzaria</p>
+
+<h5>[Days of the week]</h5>
+<p>sunday - monday - tuesday - wednesday - thursday - friday - saturday</p>
+<img src="./images/exercises/exercise-one-days-week.png" alt="exercise-one">
+<img src="./images/exercises/exercise-two-days-week.png" alt="exercise-two">
+<img src="./images/exercises/exercise-three-days-week.png" alt="exercise-three">
