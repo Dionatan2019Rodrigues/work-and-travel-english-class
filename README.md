@@ -151,3 +151,10 @@ dionatan eduardo correa rodrigues </p>
 <img src="./images/exercises/exercise-one-days-week.png" alt="exercise-one">
 <img src="./images/exercises/exercise-two-days-week.png" alt="exercise-two">
 <img src="./images/exercises/exercise-three-days-week.png" alt="exercise-three">
+
+<h5>[Routine]</h5>
+
+<img src="./images/routine-one.png">
+<img src="./images/routine-two.png">
+<img src="./images/numbers-in-english.png">
+<img src="./images/routine-three.png">
