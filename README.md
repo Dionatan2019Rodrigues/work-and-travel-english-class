@@ -8,44 +8,6 @@ English course for prepare go to work and travel
 
 <div class="class-one">
     <a href="https://www.youtube.com/watch?v=7c7Wrp4-6eg">Class video</a>
-    <h5>[Study plan - Week 03]</h5>
-    <table>
-        <tr>
-            <td>monday(listening)</td>
-            <td><a href="https://www.youtube.com/watch?v=fNRbpSKf0-Q">The alphabet</a></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>tuesday(reading/speaking)</td>
-            <td><a href="https://www.youtube.com/watch?v=h2LhsO7aVmM">Greetings</a></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>wednesday</td>
-            <td><p>Spell the words: computer /  chair / tape / colors / hair / paper / cookies</p></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>thursday(listening)</td>
-            <td><p><strong>our class</strong></p></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>friday(speaking)</td>
-            <td><p>pract the greetings of video.</p></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>saturday</td>
-            <td><p>Free: listen a music, watch a movie</p></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-        <tr>
-            <td>sunday</td>
-            <td><p>Free: listen a music, watch a movie</p></td>
-            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-        </tr>
-    </table>
     <h5>[Presentations]</h5>
     <p>
         i'm Dionatan and i have twenty three years. i am from the border between Brasil and Uruguay, but actually i live of camobi neighborhod in Santa Maria. i study science computation at UFSM  and be sixth semester of graduation. I like programming, going to gym and i love going to girlfriend's house.
@@ -81,21 +43,21 @@ English course for prepare go to work and travel
 <div class="class-two">
     <a href="https://www.youtube.com/watch?v=qISsAtPmPB4">Class video</a>
     <p>Topic: days of the week - periods of the day - daily routine</p>
-    <h5>[Study plan - Week 04]</h5>
+    <h5>[Study plan]</h5>
     <table>
         <tr>
             <td>monday(listening)</td>
-            <td><a href="https://www.youtube.com/watch?v=qC0l6GQZtM4">th sound</a></td>
+            <td><a href="https://www.youtube.com/watch?v=fNRbpSKf0-Q">The alphabet</a></td>
             <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
-            <td>tuesday(reading/listening)</td>
-            <td><a href="https://www.liveworksheets.com/w/en/english-second-language-esl/256436">practice days of the week</a></td>
+            <td>tuesday(reading/speaking)</td>
+            <td><a href="https://www.youtube.com/watch?v=h2LhsO7aVmM">Greetings</a></td>
             <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>wednesday</td>
-            <td><a href="https://www.youtube.com/watch?v=xlCBWlsKZXY">see the idea of the routine video</a></td>
+            <td><p>Spell the words: computer /  chair / tape / colors / hair / paper / cookies</p></td>
             <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
@@ -105,8 +67,8 @@ English course for prepare go to work and travel
         </tr>
         <tr>
             <td>friday(speaking)</td>
-            <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><p>pract the greetings of video.</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>saturday</td>
@@ -152,45 +114,45 @@ English course for prepare go to work and travel
 ## Class three - Today is thursday january, 30th, 2025
 
 <div class="class-three">
-    <h5>[Study plan - Week 05]</h5>
-<table>
-    <tr>
-        <td>monday(listening)</td>
-        <td><a href="https://www.youtube.com/watch?v=Ok_HG-0lNCA&t=183s"> Sound / I /</a></td>
-        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-    </tr>
-    <tr>
-        <td>tuesday(reading/listening)</td>
-        <td><a href="https://www.guinnessworldrecords.com.br/world-records/729724-first-global-pop-group">Most nationalities</a></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
-    </tr>
-    <tr>
-        <td>wednesday</td>
-        <td><a href="https://wordwall.net/pt/resource/54382911/nationalities-famous-people">Nationalities (famous people)
-</a></td>
-        <td><i class="fa-solid fa-check" style="color:green;"></i></td>
-    </tr>
-    <tr>
-        <td>thursday(listening)</td>
-        <td><p><strong>our class</strong></p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
-    </tr>
-    <tr>
-        <td>friday(speaking)</td>
-        <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
-    </tr>
-    <tr>
-        <td>saturday</td>
-        <td><p>Free: listen a music, watch a movie</p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
-    </tr>
-    <tr>
-        <td>sunday</td>
-        <td><p>Free: listen a music, watch a movie</p></td>
-        <td><i class="fa-solid fa-x" style="color:red;"></i></td>
-    </tr>
-</table>
+    <a href="">Class video</a>
+    <h5>[Study plan]</h5>
+    <table>
+        <tr>
+            <td>monday(listening)</td>
+            <td><a href="https://www.youtube.com/watch?v=qC0l6GQZtM4">th sound</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>tuesday(reading/listening)</td>
+            <td><a href="https://www.liveworksheets.com/w/en/english-second-language-esl/256436">practice days of the week</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td><a href="https://www.youtube.com/watch?v=xlCBWlsKZXY">see the idea of the routine video</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>thursday(listening)</td>
+            <td><p><strong>our class</strong></p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>friday(speaking)</td>
+            <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>saturday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>sunday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+    </table>
     <h5>[Class content]</h5>
     <p>
         <span style="background-color:orange;">How was the weekend ?</span><br>
@@ -214,3 +176,67 @@ English course for prepare go to work and travel
         She hates not being able to drive : Ela odeia não poder dirigir
     </p>
 </div>
+
+## Class four - Todays is thursday january, 06th, 2025
+
+<div class="class-four">
+    <h5>[Study plan]</h5>
+    <table>
+        <tr>
+            <td>monday(listening)</td>
+            <td><a href="https://www.youtube.com/watch?v=Ok_HG-0lNCA&t=183s"> Sound / I /</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>tuesday(reading/listening)</td>
+            <td><a href="https://www.guinnessworldrecords.com.br/world-records/729724-first-global-pop-group">Most nationalities</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td><a href="https://wordwall.net/pt/resource/54382911/nationalities-famous-people">Nationalities (famous people)
+            </a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>thursday(listening)</td>
+            <td><p><strong>our class</strong></p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>friday(speaking)</td>
+            <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>saturday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>sunday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+    </table>
+    <h5>[Class content]</h5>
+    <p>
+        I have 19<br>
+        Last year Julia was 17<br> 
+        Julia is 18 - She will be 19 years old <br> 
+        I will turn 19 <br><br>
+        How old are you? - Dionatan is 23 <br><br>
+        When is your birthday? march 19th<br>
+        19th of march I will be 24<br>
+        <span style="background-color:yellow;">I'll</span> be 24 <br><br>
+        September 14th - <span style="background-color:yellow;">I'll</span> be 20 years old
+    </p>
+    <h5>[Traslations]</h5>
+    <p>
+        come: vir <br>
+        came: veio <br>
+        That's it: só isso<br>
+        That's al: isso é tudo<br>
+    </p>
+
+</div
