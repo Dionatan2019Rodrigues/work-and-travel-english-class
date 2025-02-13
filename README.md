@@ -92,7 +92,7 @@ English course for prepare go to work and travel
         Weekend is saturday and sunday!
     </p>
     <p>
-        <span style="background-color:yellow;">What did you do on the weekend ?</span><br>
+        <span style="background-color:orange;">What did you do on the weekend ?</span><br>
         i go<span style="color:red;">(went)</span> to the (mall/store) <br>
         i work<span style="color:red;">ed</span> and studi<span style="color:red;">ed</span> on the weekend<br>
         i wroked and <span style="color:red;">went</span> to Paola's house
@@ -107,7 +107,6 @@ English course for prepare go to work and travel
     <h5>[Routine]</h5>
     <img src="./images/routine-one.png">
     <img src="./images/routine-two.png">
-    <img src="./images/numbers-in-english.png">
     <img src="./images/routine-three.png">
 </div>
 
@@ -135,12 +134,12 @@ English course for prepare go to work and travel
         <tr>
             <td>thursday(listening)</td>
             <td><p><strong>our class</strong></p></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>friday(speaking)</td>
             <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>saturday</td>
@@ -166,18 +165,28 @@ English course for prepare go to work and travel
         I was my mo<strong>m's b</strong>irthday<br>
         Stayed at Dionatan's house<br>
         I'm on vacation<br>
-        i went to beach with family of my girlfriend
+        i went to beach with family of my girlfriend<br>
+    </p>
+    <h5>[Continent and Nationality]</h5>
+    <p>
+        Africa / african<br>
+        Ásia / asian<br>
+        Australia / australian<br>
+        Europe / European<br>
+        North America / North American<br>
+        South America / South American<br>
     </p>
     <h5>[Translations]</h5>
     <p>
         bakery : padaria<br>
-        Shome on you ! : você deveria se envergonhar !<br>
+        Shame on you ! : você deveria se envergonhar !<br>
         He's never been able to dance : Ele nunca foi capaz de dançar<br>
-        She hates not being able to drive : Ela odeia não poder dirigir
+        She hates not being able to drive : Ela odeia não poder dirigir<br>
+        flag - bandeira
     </p>
 </div>
 
-## Class four - Todays is thursday january, 06th, 2025
+## Class four - Today is thursday february, 06th, 2025
 
 <div class="class-four">
     <h5>[Study plan]</h5>
@@ -228,8 +237,8 @@ English course for prepare go to work and travel
         How old are you? - Dionatan is 23 <br><br>
         When is your birthday? march 19th<br>
         19th of march I will be 24<br>
-        <span style="background-color:yellow;">I'll</span> be 24 <br><br>
-        September 14th - <span style="background-color:yellow;">I'll</span> be 20 years old
+        <span style="background-color:orange;">I'll</span> be 24 <br><br>
+        September 14th - <span style="background-color:orange;">I'll</span> be 20 years old
     </p>
     <h5>[Traslations]</h5>
     <p>
@@ -238,5 +247,16 @@ English course for prepare go to work and travel
         That's it: só isso<br>
         That's al: isso é tudo<br>
     </p>
+</div>
 
-</div
+## Class five - Today is thursday february, 13th, 2025
+
+<div class="five">
+    <h5>[Translation]</h5>
+    <p>
+        Rain - chover<br>
+    </p>
+
+
+
+</div>
