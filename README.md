@@ -113,7 +113,7 @@ English course for prepare go to work and travel
 ## Class three - Today is thursday january, 30th, 2025
 
 <div class="class-three">
-    <a href="">Class video</a>
+    <a href="https://www.youtube.com/watch?v=jFiWkDE4BmE">Class video</a>
     <h5>[Study plan]</h5>
     <table>
         <tr>
@@ -161,9 +161,9 @@ English course for prepare go to work and travel
         I stay<span style="color:red;">ed</span> home
     </p>
     <p>
-        I went to girlfrien<strong>d's h</strong>ouse<br>
-        I was my mo<strong>m's b</strong>irthday<br>
-        Stayed at Dionatan's house<br>
+        I went to girlfrien<strong style="color:red;">d's h</strong>ouse<br>
+        I was my mo<strong style="color:red;">m's b</strong>irthday<br>
+        Stayed at Dionata<strong style="color:red;">n's h</strong>ouse<br>
         I'm on vacation<br>
         i went to beach with family of my girlfriend<br>
     </p>
@@ -184,11 +184,14 @@ English course for prepare go to work and travel
         She hates not being able to drive : Ela odeia não poder dirigir<br>
         flag - bandeira
     </p>
+    <h5>[Numbers]</h5>
+    <img src="images/numbers.png">
 </div>
 
 ## Class four - Today is thursday february, 06th, 2025
 
 <div class="class-four">
+    <a href="">Class video(not)</a>
     <h5>[Study plan]</h5>
     <table>
         <tr>
@@ -215,6 +218,98 @@ English course for prepare go to work and travel
         <tr>
             <td>friday(speaking)</td>
             <td><p>Record your own vlog!!! Describe the activities you do every day</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>saturday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>sunday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+    </table>
+    <h5>[Class content]</h5>
+    <p>
+        I have 19<br>
+        Last year Julia was 17<br> 
+        Julia is 18 - She will be 19 years old <br> 
+        I will turn 19 <br><br>
+        How old are you? - Dionatan is 23 <br><br>
+        When is your birthday? march 19th<br>
+        19th of march I will be 24<br>
+        <span style="background-color:orange;">I'll</span> be 24 <br><br>
+        September 14th - <span style="background-color:orange;">I'll</span> be 20 years old
+    </p>
+    <h5>[Full form - contraction]</h5>
+    <p>
+        i am - i'm<br>
+        you are - you're<br>
+        he is - he's<br>
+        she is - she's<br>
+        it is - it's<br>
+        we are - we're<br>
+        they are - they're
+    </p>
+    <h5>[Traslations]</h5>
+    <p>
+        come: vir <br>
+        came: veio <br>
+        That's it: só isso<br>
+        That's al: isso é tudo<br>
+    </p>
+    <h5>[Friday's activity]</h5>
+    <p>
+        10h00 - wake up <br>
+        10h10 - brush teeth <br>
+        10h20 - wake bed <br>
+        10h30 - have breakfast <br>
+        11h00 - tidy the room <br>
+        12h00 - organize the week's tasks <br>
+        13h00 - have lunch <br>
+        14h00 - play soccer with my girlfriend <br>
+        17h30 - take a shower <br>
+        18h00 - we go to the mall <br>
+        19h00 - have snack <br>
+        20h00 - we go to the cine <br>
+        20h10 - wath terror movie <br>
+        23h00 - back for house <br>
+        23h30 - take a shower <br>
+        00h00 - sleep <br>
+    </p>
+</div>
+
+## Class five - Today is thursday february, 13rd, 2025
+
+<div class="five">
+    <a href="">Class video(not)</a>
+    <h5>[Study plan]</h5>
+    <table>
+        <tr>
+            <td>monday</td>
+            <td><a href="https://www.youtube.com/watch?v=x_4AjSwTXdc">wh-questions-english grammar lessons</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>tuesday</td>
+            <td><p>Tuesday's activity: work in paris. practise a similar dialogue for each person or thing below.</p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td><a href="https://lingua.com/english/reading/days/">Description of each day ...</a></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>thursday</td>
+            <td><p><strong>our class</strong></p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>friday</td>
+            <td><p>read the text out loud</p></td>
             <td><i class="fa-solid fa-x" style="color:red;"></i></td>
         </tr>
         <tr>
@@ -230,33 +325,36 @@ English course for prepare go to work and travel
     </table>
     <h5>[Class content]</h5>
     <p>
-        I have 19<br>
-        Last year Julia was 17<br> 
-        Julia is 18 - She will be 19 years old <br> 
-        I will turn 19 <br><br>
-        How old are you? - Dionatan is 23 <br><br>
-        When is your birthday? march 19th<br>
-        19th of march I will be 24<br>
-        <span style="background-color:orange;">I'll</span> be 24 <br><br>
-        September 14th - <span style="background-color:orange;">I'll</span> be 20 years old
+        <span style="background-color:orange;">when is your birthday ?</span><br>
+        <span style="background-color:orange;">when is your father's birthday ?</span><br>
+        my birthday is march 19th <br>
+        my birthday is the 19th of march<br>
+        my father's bithday is august 6th
     </p>
-    <h5>[Traslations]</h5>
-    <p>
-        come: vir <br>
-        came: veio <br>
-        That's it: só isso<br>
-        That's al: isso é tudo<br>
-    </p>
-</div>
-
-## Class five - Today is thursday february, 13th, 2025
-
-<div class="five">
-    <h5>[Translation]</h5>
+    <h5>[Questions]</h5>
+    <img src="images/questions.png">
+    <h5>[Translations]</h5>
     <p>
         Rain - chover<br>
+        cheers - saúde<br>
+        LOL - risada<br>
+        forget - esquecer<br>
+        fast - rápido<br>
+        know - saber<br>
+        that's it - é isso<br>
+        dinner - jantar
     </p>
-
-
-
+    <h5>[Wh - questions]</h5>
+    <img src="images/types-question.png">
+    <img src="images/wh-questions.png">
+    <img src="images/patterns-question.png">
+    <h5>[Tuesday's activity]</h5>
+    <p>
+        (karate-france)(fish and chips-swiss)(the beatles-grece)(flamenco music-chinese)(christian Dior-brtish)(feeat cheese-portuguese)(mercedes-Brazil)(vodka-india)(kung fu-switzerland)  
+        <br><br>
+        is the airplane from brazil ? yes, it's brazilian<br>
+        is computer from american ? yes, it's american<br>
+        is the karate from france ? no it isn't.<br>
+        is the vodka from india ? no it isn't , it's from russia
+    </p>
 </div>
