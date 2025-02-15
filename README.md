@@ -300,7 +300,7 @@ English course for prepare go to work and travel
         <tr>
             <td>wednesday</td>
             <td><a href="https://lingua.com/english/reading/days/">Description of each day ...</a></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>thursday</td>
@@ -310,12 +310,12 @@ English course for prepare go to work and travel
         <tr>
             <td>friday</td>
             <td><p>read the text out loud</p></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>saturday</td>
             <td><p>Free: listen a music, watch a movie</p></td>
-            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
         </tr>
         <tr>
             <td>sunday</td>
@@ -330,6 +330,12 @@ English course for prepare go to work and travel
         my birthday is march 19th <br>
         my birthday is the 19th of march<br>
         my father's bithday is august 6th
+    </p>
+    <h5>[Questions pattern]</h5>
+    <p>
+        do/does + sujeito + verbo + complemento<br>
+        do (i, you , we and they)<br>
+        does (she, he and it)
     </p>
     <h5>[Questions]</h5>
     <img src="images/questions.png">
@@ -357,4 +363,6 @@ English course for prepare go to work and travel
         is the karate from france ? no it isn't.<br>
         is the vodka from india ? no it isn't , it's from russia
     </p>
+    <h5>[Wednesday's activity]</h5>
+    <img src="images/exercises/exercise-day-of-the-week.png">
 </div>
