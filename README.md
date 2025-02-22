@@ -366,3 +366,49 @@ English course for prepare go to work and travel
     <h5>[Wednesday's activity]</h5>
     <img src="images/exercises/exercise-day-of-the-week.png">
 </div>
+
+## Class six - Today is thusday february, 20th, 2025
+
+<div class="six">
+    <h5>[Didn't have english class]</h5>
+    <h5>[Study plan]</h5>
+    <table>
+        <tr>
+            <td>monday</td>
+            <td><a href="https://www.youtube.com/watch?v=x_4AjSwTXdc">Wh - questions</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>tuesday</td>
+            <td><a href="https://www.youtube.com/watch?v=VKzaVEG5b9k">Ordinal numbers</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td><a href="https://www.liveworksheets.com/w/en/english-second-language-esl/1003720">Practice the numbers</a></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>thursday</td>
+            <td><p><strong>didn't have english class</strong></p></td>
+            <td><i class="fa-solid fa-check" style="color:green;"></i></td>
+        </tr>
+        <tr>
+            <td>friday</td>
+            <td><p>Ask more questions about the text in Figma</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>saturday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+        <tr>
+            <td>sunday</td>
+            <td><p>Free: listen a music, watch a movie</p></td>
+            <td><i class="fa-solid fa-x" style="color:red;"></i></td>
+        </tr>
+    </table>
+    <h5>[Friday's activity]</h5>
+    <p> </p>
+</div>
