@@ -244,15 +244,7 @@ English course for prepare go to work and travel
         September 14th - <span style="background-color:orange;">I'll</span> be 20 years old
     </p>
     <h5>[Full form - contraction]</h5>
-    <p>
-        i am - i'm<br>
-        you are - you're<br>
-        he is - he's<br>
-        she is - she's<br>
-        it is - it's<br>
-        we are - we're<br>
-        they are - they're
-    </p>
+    <img src="images/to-be-conjugation.png">
     <h5>[Traslations]</h5>
     <p>
         come: vir <br>
@@ -284,7 +276,7 @@ English course for prepare go to work and travel
 ## Class five - Today is thursday february, 13rd, 2025
 
 <div class="five">
-    <a href="">Class video(not)</a>
+    <a href="https://www.youtube.com/watch?v=zAgCBvCUZos&feature=youtu.be">Class video</a>
     <h5>[Study plan]</h5>
     <table>
         <tr>
@@ -367,7 +359,7 @@ English course for prepare go to work and travel
     <img src="images/exercises/exercise-day-of-the-week.png">
 </div>
 
-## Class six - Today is thusday february, 20th, 2025
+## Class six (didn't have class)- Today is thusday february, 20th, 2025
 
 <div class="six">
     <h5>[Didn't have english class]</h5>
@@ -412,3 +404,34 @@ English course for prepare go to work and travel
     <h5>[Friday's activity]</h5>
     <p> </p>
 </div>
+
+## Class seven - Today is thursday february, 27th, 2027
+
+<div class="seven">
+    <a href="">Class video(not)</a>
+    <h5>[Translations]</h5>
+    <p>
+        migraine - Enchaqueca<br> 
+        headache - Dor de cabeça <br>
+        I have never been to the circus - Nunca fui ao circo
+    </p>
+    <h5>[Class Activity]</h5>
+    <img src="images/listening-activity.png"/>
+    <p>
+        what's her first name ? Her first name is Micaela<br>
+        What's her last name ? Her last name is vazquez<br>
+        <br>
+        How do you spell it ? oh, ok! V A Z Q U E Z <br>
+        How old are you ? She is 20 years old <br>
+        How old is she ? She is 20 years old <br>
+        <br>
+        Where are you rom ? Argentina, Buenos Aires <br>
+        Where is she froom? Argentina, Buenos Aires <br>
+        <br>
+        What's your address ? Florida, 165 <br>
+        What's yous zip code ? C 1 000 5886 <br> 
+        What's your email address ? she phone number is 111589345568
+    </p>
+</div>
+
+ 
