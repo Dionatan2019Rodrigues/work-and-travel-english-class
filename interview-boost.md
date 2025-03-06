@@ -1,3 +1,8 @@
+[dividas]<br>
+pdf questões do modulo 1<br>
+pdf de adjetivos pessoais do modulo 2 aula 1<br>
+class (this is my dream job) and (conclusion module two)
+
 ## Tempos Verbais
 
 ### PAST
@@ -23,7 +28,7 @@ What day is today ? <br>
 today is march 5th, 2025<br>
 the 5th of march<br><br>
 
-i (am/will be) available by (december 3rd/the 3rd of december)
+i (am / will be) available by (december 3rd / the 3rd of december)
 
 ## Verbos Modais
 
@@ -31,7 +36,25 @@ i (am/will be) available by (december 3rd/the 3rd of december)
 [poderia - Could] i COULD WORK as a cashier<br>
 [deveria - Should] i SHOULD travel to the USA
 
-## Wh Questions 
+## Wh Questions
 
 Why ? porque usado na pergunta<br>
 Because... porque usado na resposta
+
+## How (do/can) you describe yourself?
+
+I'm a organized person <br>
+I'm a sociable person <br>
+I have been working for five years<br>
+I'm focused on my dreams<br>
+I like conversations to peoples
+
+[translate]<br>
+estrovertida - outgoing<br>
+
+## What are good at?
+
+I'm good at playing soccer.<br>
+I'm good at dancing the parties<br>
+I'm good (with the camera / at recording) <br>
+I'm good at talking the peoples
