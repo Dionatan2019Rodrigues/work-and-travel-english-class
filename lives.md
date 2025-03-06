@@ -49,4 +49,8 @@ Video stream on instragram
         In the evening <br>
         At night
     </p>
+    <p>
+        <strong>What would you like to eat?</strong> I would like to eat rice with egg<br>
+        <strong>When is your birthday?</strong> march 19th
+    </p>
 </div>
