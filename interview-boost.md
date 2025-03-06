@@ -1,4 +1,4 @@
-## Tempos Verbais 
+## Tempos Verbais
 
 ### PAST
 
@@ -23,4 +23,15 @@ What day is today ? <br>
 today is march 5th, 2025<br>
 the 5th of march<br><br>
 
-i (am/will be) available by (december 3rd/the 3rd of december) 
+i (am/will be) available by (december 3rd/the 3rd of december)
+
+## Verbos Modais
+
+[gostaria - Would] i WOULD LIKE to work as a cashier<br>
+[poderia - Could] i COULD WORK as a cashier<br>
+[deveria - Should] i SHOULD travel to the USA
+
+## Wh Questions 
+
+Why ? porque usado na pergunta<br>
+Because... porque usado na resposta
