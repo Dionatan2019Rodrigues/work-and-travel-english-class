@@ -469,7 +469,9 @@ English course for prepare go to work and travel
     a change purse (moedeira)<br>
     a tissue(lenço umidecido)<br>
     wardrobe(armario) <br>
-    trash can(lixeira)
+    trash can(lixeira)<br>
+    Chair (cadeira) <br>
+    rug (tapete)
     <img src="images/objects.png">
     There is Behaid me a wardrobe.
     <h5>[Translations]</h5>
@@ -485,4 +487,36 @@ English course for prepare go to work and travel
     shelf - prateleira <br>
     floor - chão <br>  
     of tem fonética de ov
+</div>
+
+## Class nine - Today is thursday march, 13rd, 2025
+
+<div class="nine">
+    <a href="https://www.youtube.com/watch?v=4lO_YkoyEC8">Class video</a>
+    <h5>[Content]</h5>
+    i went to the university park<br>
+    i went out to eat with my girlfriend
+    <h5>[Translation]</h5>
+    Relativies - parentes<br>
+    parents - pai e mãe<br>
+    uncle - tios<br>
+    How long will you stay in Ceará ? I'll stay two weeks. <br><br>
+    Where's the object ? <br>
+    There is a notebook on the desk<br>
+    The bag pack is in the front of the wall.<br>
+    the bag pack is above thw shelf.<br>
+    The bed is on the floor.<br>
+    The desk is in front of the wall.<br>
+    The windown is on the wall <br>
+    The chair is in front of the computer<br><br>
+    Describe the room<br>
+    There is the wall on the floor<br>
+    There are two windowns on the wall<br>
+    There are two windowns between the curtains<br>
+    There is the shelf abode the windowns<br>
+    There are two sofas in front of the shelf<br>
+    There are two  on the shelf<br>
+    There is the lamp on the shelf<br>
+    On the left side of the left sofa there is ebooks pile
+    <img src="images/positions.png">
 </div>
