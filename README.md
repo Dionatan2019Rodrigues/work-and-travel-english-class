@@ -191,7 +191,7 @@ English course for prepare go to work and travel
 ## Class four - Today is thursday february, 06th, 2025
 
 <div class="class-four">
-    <a href="">Class video(not)</a>
+    <a href="https://www.youtube.com/watch?v=dN4WUonZiWI">Class video</a>
     <h5>[Study plan]</h5>
     <table>
         <tr>
@@ -241,7 +241,16 @@ English course for prepare go to work and travel
         When is your birthday? march 19th<br>
         19th of march I will be 24<br>
         <span style="background-color:orange;">I'll</span> be 24 <br><br>
-        September 14th - <span style="background-color:orange;">I'll</span> be 20 years old
+        September 14th - <span style="background-color:orange;">I'll</span> be 20 years old<br><br>
+        choose one country<br>
+        is Germany inm Ásia? Yes, it's || No, it isn't<br>
+        Where is Germany ? It is in Europe<br><br>
+        Is George Clooney is spanish ? No, he isn't<br>
+        Where is he from ? He is American <br><br>
+        Is Guinnes grom Portugal ? No, it isn't<br>
+        Where is it from ? It is from Ireland, It is Irish<br><br>
+        Are pizza and pasta from Portugal ? No, they aren't<br>
+        They're from Itally
     </p>
     <h5>[Full form - contraction]</h5>
     <img src="images/to-be-conjugation.png">
@@ -405,10 +414,10 @@ English course for prepare go to work and travel
     <p> </p>
 </div>
 
-## Class seven - Today is thursday february, 27th, 2027
+## Class seven - Today is thursday february, 27th, 2025
 
 <div class="seven">
-    <a href="">Class video(not)</a>
+    <a href="https://www.youtube.com/watch?v=2PlSlKDx5WQ">Class video</a>
     <h5>[Translations]</h5>
     <p>
         migraine - Enchaqueca<br> 
@@ -434,4 +443,46 @@ English course for prepare go to work and travel
     </p>
 </div>
 
- 
+## Class eight - Today is thursday march, 6th, 2025
+
+<div class="eight">
+    <a href="https://www.youtube.com/watch?v=aYYDOVz0HhA">Class video</a>
+    <h5>[Content]</h5>
+    When is your birthday?<br>
+    march 19th - 19th of march <br>
+    I will be 24 - I'll be 24 <br><br>
+    How was the holiday? <br>
+    I went out to the all you can eat (parmegiana-pizza-barbecue-ice cream) place <br><br>
+    Things you use everiday ? <br>
+    keyboard, mouse, laptop, cellphone, watch.<br><br>
+    What objects do you have on the desk ? <br>
+    On my desk i have ... [bottle of water,
+    Laptop, mouse, keyboard, cellphone, air frayer, hair's cream, deodorant, electric kettle(chaleira) pencil, medicine(remédio)]<br><br>
+    What objects do you have in your (purse-bag pack) ?<br>
+    In my bag pack i have ... [laptop,keyboard, mouse, one notebook, laptop's charger and cellphone's charger, two pensil, cards, water bottle]
+    <h5>[Objects]</h5>
+    a pen(caneta)<br>
+    a wallet(carteira)<br>   
+    scissors(tesoura)<br>
+    a piece a paper(folha de papel)<br>
+    a file / a binder (fichairo) <br>
+    a change purse (moedeira)<br>
+    a tissue(lenço umidecido)<br>
+    wardrobe(armario) <br>
+    trash can(lixeira)
+    <img src="images/objects.png">
+    There is Behaid me a wardrobe.
+    <h5>[Translations]</h5>
+    Organized - organizado <br>
+    messy - desorganizado <br>
+    eggplant - beringela <br>
+    came - veio <br>
+    come - vem <br>
+    holliday - feriado <br>
+    pool - piscina <br>
+    bar - bar <br>
+    wall - parede <br> 
+    shelf - prateleira <br>
+    floor - chão <br>  
+    of tem fonética de ov
+</div>
