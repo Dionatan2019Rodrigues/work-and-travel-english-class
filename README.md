@@ -520,3 +520,66 @@ English course for prepare go to work and travel
     On the left side of the left sofa there is ebooks pile
     <img src="images/positions.png">
 </div>
+
+## Class ten - Today is thursday march, 20th, 2025
+
+<div class="ten">
+    <a href="https://www.youtube.com/watch?v=cFCTm_OXw18">Class video</a>
+    <h5>[Content]</h5>
+    How was your weekend ? <br>
+    i stay home <br>
+    i went to the university<br><br>
+    Do you play soccer ? <br>
+    Do you drink coffe ? <br>
+    Do you drive a car ? <br>
+    Did you have a dinner ? <br>
+    Yes, i do. OR No, i don't <br><br>
+    What type of music do you like ? <br>
+    I like funk, sertanejo and trap.<br><br>
+    (Do) é auxiliar de pergunta pra presente.
+    <h5>[Translation]</h5>
+    Sock - meia <br>
+    meal - refeição <br>
+    soda - refrigerante <br>
+    ride a bike - bicicleta <br>
+</div>
+
+## Class eleven - Today is thursday march, 27th, 2025
+
+<div class="eleven">
+    <a href="https://www.youtube.com/watch?v=6avqxWi47lI">Class video</a>
+    <h5>[Translation]</h5>
+    Company - empresa <br>
+    Travel - viajar <br>
+    siblings - irmãos <br>
+    take care - cuidar <br>
+    <h5>[Content]</h5>
+    What was your weekend ?<br>
+    i went to travel i the five stars hotel in the event for company<br>
+    i went the water park <br><br>
+    (Do) não é usado com verbo to be, precisa de outro verbo <br>
+    What do study at the university ? <br>
+    What's your course at the university ?<br>
+    Where do you live ? <br>
+    Why did you choose your course ? Because, i have mecatronica course <br>
+    What do you do for a living ? I'm for a living developament websites<br>
+    Where do you study ?<br>
+    Do you have siblings ?<br>
+    What's your hobby ? <br>
+    What's favorite color ? <br>
+    Who (will/is going to) order the food ? <br><br>
+    (at the university) sempre que falar sobre lugar, usar o (at)<br>
+    (in) é mais expecífico pra algo que esta dentro<br>
+    <h5>[Jobs at the United States]</h5>
+    <img src="images/jobs.png"/>
+    Dionatan, can you tell me what does a lift do ?<br>
+    Click button, clean the snow and take care the kids at the lift<br><br>
+    What does a waiter / waitress do ? <br>
+    She/he server peoples<br>
+    He (clean/wipe) tables <br>
+    She takes the order <br><br>
+    What does a life guard do ? <br>
+    He saves people lives<br>
+    She swims <br>
+    He takes care about people
+</div>
