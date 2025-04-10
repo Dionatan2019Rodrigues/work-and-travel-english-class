@@ -446,6 +446,8 @@ English course for prepare go to work and travel
     <img src="images/sentence-patterns.png"/>
     <h5>[Activities]</h5>
     <p>
+        <strong>Review objects</strong>
+        <a href="https://www.figma.com/board/cN4HgK5ZYqRAvMwQBmZpiH/Untitled?node-id=0-1&p=f&t=j8tkCHRO5QrlZ7bJ-0">link figma</a><br><br>
         <strong>Write 3 sentences with the objects, describe the objects in your room, living room, kitchen…</strong><br>
         There are two tables in my room.<br>
         There is a computer on the table.<br>
