@@ -441,6 +441,24 @@ English course for prepare go to work and travel
         What's yous zip code ? C 1 000 5886 <br> 
         What's your email address ? she phone number is 111589345568
     </p>
+    <h5>[Prepositions]</h5>
+    <img src="images/prepositions.png"/>
+    <img src="images/sentence-patterns.png"/>
+    <h5>[Activities]</h5>
+    <p>
+        <strong>Write 3 sentences with the objects, describe the objects in your room, living room, kitchen…</strong><br>
+        There are two tables in my room.<br>
+        There is a computer on the table.<br>
+        There is a trash can nex to the table.<br><br>
+        <strong>Describe a room in your house explaining where the objects are </strong><br>
+        Description of my kitchen<br>
+        There is a sofa in front ov the wall<br>
+        There is a refrigerator in front of the sofa<br>
+        There is a stove next to the refrigerator<br>
+        There is a table in front of the stove<br>
+        There is a food on the tables<br>
+        There are two glass on the table<br> 
+    </p>
 </div>
 
 ## Class eight - Today is thursday march, 6th, 2025
