@@ -562,6 +562,22 @@ English course for prepare go to work and travel
     meal - refeição <br>
     soda - refrigerante <br>
     ride a bike - bicicleta <br>
+    <h5>[Study plan - PLURAL]</h5>
+    <strong>IRREGULAR</strong><br>
+    oo -> ee : tooth -> teeth<br>
+    a -> e : man -> men<br>
+    a -> e : woman -> women<br>
+    f/fe -> ves : leaf -> leaves<br>
+    f/fe -> ves : knife -> knives<br>
+    <strong>DIFFERENT ENDING</strong><br>
+    child -> children<br>
+    ox -> oxen<br>
+    <strong>NEW WORD</strong><br>
+    person -> people<br>
+    mouse -> mice<br>
+    <strong>NO CHANGE</strong><br>
+    deer -> deer<br>
+    fish -> fish<br>
 </div>
 
 ## Class eleven - Today is thursday march, 27th, 2025
@@ -602,4 +618,45 @@ English course for prepare go to work and travel
     He saves people lives<br>
     She swims <br>
     He takes care about people
+</div>
+
+## Class twelve - Today is thurday april, 3rd, 2025
+
+<div class="twelve">
+    <h5>[Study plan]</h5>
+    <strong>Choose two jobs(work and travel) and describe what they do</strong><br>
+    Lift operator<br>
+    He clean a snow<br>
+    She click button<br>
+    The lift operator put snow on the ramp<br>
+    He takes care the kids at the lift<br>
+    She help people to go on the lift<br><br>
+    Front desk<br>
+    She talk a people<br>
+    He organize the materials<br>
+    She use the computer<br>
+    He directs the client to the room<br><br>
+    <strong>Describe activities at the video</strong><br>
+    put snow on the ramp<br>
+    drive to the work<br>
+    He click many buttons<br><br>
+    <strong>Write some things the lift does in his day</strong><br>
+    put snow on the ramp<br>
+    click more buttons<br>
+    takes care kids at the lift
+</div>
+
+## Class thirteen - Today is thursday april, 10th, 2025
+
+<div class="thirteen">
+    <h5>[Study plan]</h5>
+    Read the text below:<br>
+    <img src="images/newyork-one-part.png">
+    <img src="images/newyork-two-part.png"><br>
+    <strong>Write words you that are new for you</strong><br>
+    that - que <br>
+    these - esses<br>
+    <strong>Write some things you want to do at the NY</strong><br>
+    i want will to the Central park<br>
+    i want going to the Empire State Bulding
 </div>

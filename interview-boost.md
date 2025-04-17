@@ -57,4 +57,4 @@ estrovertida - outgoing<br>
 I'm good at playing soccer.<br>
 I'm good at dancing the parties<br>
 I'm good (with the camera / at recording) <br>
-I'm good at talking the peoples
+I'm good at talking the people
